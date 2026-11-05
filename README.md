@@ -4,6 +4,8 @@
 
 **Ардан Батуев** · Telegram [@ardan_BSA](https://t.me/ardan_BSA) · a.batuev.bsa@mail.ru
 
+*Сейчас в данном репозитории краткое описание моего опыта. Подробнее можно ознакомиться с портфолио по ссылке: https://drive.google.com/drive/folders/1xdhEcZxHZoa8s3zIAgIU47iZZ4StduHb?usp=sharing
+
 ## Проекты
 
 | Проект | Тип | Что внутри |
